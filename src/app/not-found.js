@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <main className="not-found"><span>404 / OFF ROUTE</span><h1>WRONG<br/><em>TURN.</em></h1><Link href="/">Return to the archive →</Link></main>}

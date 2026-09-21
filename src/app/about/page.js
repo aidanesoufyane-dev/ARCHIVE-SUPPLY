@@ -1,0 +1,3 @@
+import Image from "next/image";
+export const metadata={title:"Our Story"};
+export default function Page(){return <main className="about-page"><header><span>ARCHIVE / MANIFESTO</span><h1>WE DON&apos;T<br/>FOLLOW<br/><em>THE DROP.</em></h1></header><section><Image src="/hero-oxblood.png" alt="Studio Runner campaign" width={1600} height={1000}/><div><h2>A considered<br/>footwear archive.</h2><p>ARCHIVE/SUPPLY is a fictional independent sneaker label created as a Nexora digital commerce showcase. The concept explores how product clarity and editorial storytelling can share the same screen.</p><p>Every silhouette is presented without invented reviews, false scarcity, or borrowed brand equity. Just form, material and movement.</p></div></section></main>}

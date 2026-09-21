@@ -1,0 +1,2 @@
+export const metadata={title:"Contact"};
+export default function Page(){return <main className="legal-page"><span>CONTACT / NEXORA DEMO</span><h1>LET&apos;S<br/><em>TALK.</em></h1><section><p>This fictional store is a portfolio demonstration. For project enquiries, replace this copy with Nexora&apos;s verified contact information.</p><a href="mailto:hello@example.com">hello@example.com ↗</a></section></main>}

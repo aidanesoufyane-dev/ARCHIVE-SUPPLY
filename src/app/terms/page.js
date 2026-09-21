@@ -1,0 +1,1 @@
+export const metadata={title:"Terms"};export default function Page(){return <main className="legal-page"><span>LEGAL / DEMO TERMS</span><h1>TERMS.</h1><section><p>ARCHIVE/SUPPLY is a fictional Nexora portfolio project. Products, prices and checkout interactions are demonstrative and do not constitute an offer for sale.</p></section></main>}

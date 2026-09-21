@@ -1,0 +1,1 @@
+export const metadata={title:"Privacy"};export default function Page(){return <main className="legal-page"><span>LEGAL / UPDATED 2026</span><h1>PRIVACY.</h1><section><p>This demo stores cart and wishlist selections locally in your browser. It does not submit payment information. Replace this summary with counsel-reviewed terms before any commercial launch.</p></section></main>}
